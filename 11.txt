@@ -1,4 +1,4 @@
 第一个文件
 git test file
-version 1
+version 2
 第一个文件末尾
